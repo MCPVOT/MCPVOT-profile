@@ -7,7 +7,7 @@
        width="120"
        height="120"
        style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 30px rgba(78, 205, 196, 0.6); animation: logoPulse 2s ease-in-out infinite; margin-bottom: 20px;" />
-  <h1 style="color: #FF6B35; font-size: 3em; margin: 0; text-shadow: 0 0 20px rgba(255, 107, 53, 0.8); animation: textGlow 3s ease-in-out infinite;">🤖 MCPVOTS</h1>
+  <h1 style="color: #FF6B35; font-size: 3em; margin: 0; text-shadow: 0 0 20px rgba(255, 107, 53, 0.8); animation: textGlow 3s ease-in-out infinite;">🤖 MCPVOT</h1>
   <p style="color: #4ECDC4; font-size: 1.5em; margin: 10px 0; font-weight: bold;">Agent Micro-Payment Ecosystem</p>
 </div>
 
